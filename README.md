@@ -13,4 +13,4 @@ This project is a simple math game written in C++. The game presents math proble
 ## Installation
 1. Clone the repository:
    ```sh
-   download the zipped file and go to x64 > Simple Math Game.exe
+   download the zipped file, extract it and go to x64 > Simple Math Game.exe
